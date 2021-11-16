@@ -1,11 +1,13 @@
 // ==UserScript==
-// @name         reddit expand all coments button
+// @name         reddit expand all comments button
 // @namespace    http://www.reddit.com/
-// @version      1.6
+// @version      1.7
 // @description  when you've collapsed a lot of comments on a reddit thread and don't want to uncollapse them all one by one
 // @author       Antonio Lima
 // @match        http://www.reddit.com/r/*/comments/*
 // @match        https://www.reddit.com/r/*/comments/*
+// @match        http://old.reddit.com/r/*/comments/*
+// @match        https://old.reddit.com/r/*/comments/*
 // @grant        none
 // ==/UserScript==
 
